@@ -1,5 +1,6 @@
 #!/bin/bash
 #added line with akshay
+#dded line with Prithvi
 echo "enter file name"
 read filename
 
