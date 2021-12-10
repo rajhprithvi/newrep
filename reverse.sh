@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#akshay
 echo "enter file name"
 read filename
 
